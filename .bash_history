@@ -141,3 +141,142 @@ git add README.md
 git push
 jmrcounseling.git
 git push jmrcounseling.git
+git init
+git add README
+git commit -m
+git clone https://github/jmrcounseling/jmrcounseling.git
+ls
+git commit
+git config --global user.name "James Reinach"
+git config --global user.mail jmrcounseling@gmail.com
+git push origin master
+git commit -m 'initial commit'
+git push origin master
+git push
+git push https://github/jmrcounseling/jmrcounseling.git
+git config --global push.default simple
+git commit
+git push origin master
+git push origin head
+git init
+git add .
+git commit -m 'initial commit'
+git push origin master
+ls
+git config --global user.name "James Reinach"
+git config --global user.mail jmrcounseling@gmail.com
+git push origin master
+git push
+git remote add https://github/jmrcounseling/jmrcounseling.git
+git push
+git push jmrcounseling
+git push --set-upstream jmrcounseling master
+touch README.md
+git push --set-upstream jmrcounseling master
+git config --global user.name "James Reinach"
+git config --global user.mail jmrcounseling@gmail.com
+git push origin master
+git push
+git status
+git add README.md
+git status
+git commit -m "a change"
+git push
+jmrcounseling
+git status
+git clone https://github/jmrcounseling/courseproject.git
+ls
+touch readme.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jmrcounseling/courseproject.git
+git push origin master
+git remote add origin https://github.com/jmrcounseling/courseproject.git
+gitpush origin master
+git push origin master
+git push origin master
+git push origin master
+git push -u origin master
+cd
+git remote add origin // https://github/jmrcounseling/courseproject.git
+git pull origin master
+git push origin master
+git pull origin master
+git commit -a
+ls
+status
+ls
+status
+rm readme.md
+ls
+git push
+subl
+git psh subl
+push subl
+push
+git push subl
+git init
+git status
+git status
+git add.viminfo
+git status
+new file: .gitignore
+git add new file: gitignore
+ls
+git status
+git status
+new file: .gitignore
+git add .gitignore.rb
+git add .gitignore
+new file:.gitignore
+both added: README.md
+git add README.md
+git modify .bash_history
+git add .bash_history
+git add .viminfo
+git commit
+git status
+git add bash_history
+git add .bash history
+git add .bash history.git
+git add
+git add modified: .bash history
+add commit .bash_history
+git commit .bash_history
+git add ".bash_history"
+git add ".gitignore"
+get add "viminfo"
+git add "viminfo"
+git add ".viminfo"
+git add "READ.md"
+git add ".READ.md"
+git commit
+git add README.md
+git commit
+git commit
+.git MERGE_HEAD
+git merge head
+git commit
+git commit .bash_history
+git add .bash_history
+git add .gitignore
+git add .viminfo
+git add .README.md
+git add README.md
+git commit
+git push origin master
+git init
+git add
+git add .gitignore
+git add .README.md
+git add bash.history
+git add bash_history
+git clone https://github/jmrcounseling/jmrcounseling.git
+git status
+git commit .bash_history
+git commit .bash_history git commit .README.md git.commit .bash_history git commit .viminfo
+git commit -i .gitignore
+git commit -i
+git commit -i .gitignore .README.md .bash_history .viminfo
+git commit -i .gitignore
